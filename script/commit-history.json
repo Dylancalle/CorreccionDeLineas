@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-05-23T23:15:34.000Z",
+      "message": "Se creo un comentario",
+      "url": "https://github.com/Dylancalle/CorreccionDeLineas/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-05-23"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
