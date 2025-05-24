@@ -57,12 +57,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "66acccf43321825761d2ec51da66a7bbf79fb55d",
     "author": "Dylan",
     "commit": {
       "date": "2025-05-24T02:16:49.000Z",
       "message": "Se agrego una nueva prueba positiva",
-      "url": "https://github.com/Dylancalle/CorreccionDeLineas/commit/HEAD"
+      "url": "https://github.com/Dylancalle/CorreccionDeLineas/commit/66acccf43321825761d2ec51da66a7bbf79fb55d"
     },
     "stats": {
       "total": 3,
@@ -74,5 +74,24 @@
     "test_count": 3,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-05-24T02:21:43.000Z",
+      "message": "Hacer pruebas en verde",
+      "url": "https://github.com/Dylancalle/CorreccionDeLineas/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
+      "date": "2025-05-24"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
