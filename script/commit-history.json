@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "60a01f88a3853a41d0c7fd0932ec6be7797e121a",
     "author": "Dylan",
     "commit": {
       "date": "2025-05-24T02:01:26.000Z",
       "message": "Se realizaron cambios",
-      "url": "https://github.com/Dylancalle/CorreccionDeLineas/commit/HEAD"
+      "url": "https://github.com/Dylancalle/CorreccionDeLineas/commit/60a01f88a3853a41d0c7fd0932ec6be7797e121a"
     },
     "stats": {
       "total": 2,
@@ -36,5 +36,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-05-24T02:11:37.000Z",
+      "message": "Se agrego una prueba que falla",
+      "url": "https://github.com/Dylancalle/CorreccionDeLineas/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-05-24"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
