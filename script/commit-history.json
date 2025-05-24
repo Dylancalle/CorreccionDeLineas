@@ -1,17 +1,36 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "192d56d60a6acd7098861079a3b6d8fea696f43f",
     "author": "Dylan",
     "commit": {
       "date": "2025-05-23T23:15:34.000Z",
       "message": "Se creo un comentario",
-      "url": "https://github.com/Dylancalle/CorreccionDeLineas/commit/HEAD"
+      "url": "https://github.com/Dylancalle/CorreccionDeLineas/commit/192d56d60a6acd7098861079a3b6d8fea696f43f"
     },
     "stats": {
       "total": 0,
       "additions": 0,
       "deletions": 0,
       "date": "2025-05-23"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-05-24T02:01:26.000Z",
+      "message": "Se realizaron cambios",
+      "url": "https://github.com/Dylancalle/CorreccionDeLineas/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
+      "date": "2025-05-24"
     },
     "coverage": 100,
     "test_count": 1,

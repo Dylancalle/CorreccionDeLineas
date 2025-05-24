@@ -66,7 +66,7 @@ function getCommitInfo(sha) {
     try {
       // Excluir commit-history.json al obtener las estadísticas del diff
       const diffStats = execSync(
-        `git diff --stat ${parentRef} ${gitSha} -- ':!${DATA_FILE}'`
+        `git diff --stat ${parentRef} ${gitSha} -- ":!${DATA_FILE}"`
       ).toString();
       const additionsMatch = diffStats.match(/(\d+) insertion/);
       const deletionsMatch = diffStats.match(/(\d+) deletion/);
