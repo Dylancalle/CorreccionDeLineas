@@ -7,6 +7,9 @@ describe("Sumar", () => {
   it("deberia restar dos numeros", () => {
     expect(sumar(3, 2)).toEqual(7);
   });
+  it("deberia restar dos numeros", () => {
+    expect(sumar(3, 2)).toEqual(5);
+  });
 });
 /* */
 
